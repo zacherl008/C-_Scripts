@@ -1,9 +1,8 @@
+//Simulation of a game of craps.
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
-//Simulating a game of craps.
 
 int rollDie();
 int rollEm();
