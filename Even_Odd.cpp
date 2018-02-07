@@ -1,7 +1,7 @@
+//Program to determine even or odd, greater than 10, and positive negative or zero.
+
 #include <iostream>
 using namespace std;
-
-//Program to determine even or odd, greater than 10, and positive negative or zero.
 
 int main ( )
 {
