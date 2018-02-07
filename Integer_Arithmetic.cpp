@@ -1,7 +1,7 @@
+//Simple arithmetic with user input and three integers.
+
 #include <iostream>
 using namespace std;
-
-//Simple arithmetic with user input and three integers.
 
 int main ( )
 {
