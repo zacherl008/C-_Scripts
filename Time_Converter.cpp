@@ -1,7 +1,7 @@
+//Calculate minutes, hours, days, months, and years from the user input of seconds.
+
 #include <iostream>
 using namespace std;
-
-//Calculate minutes, hours, days, months, and years from the user input of seconds.
 
 int main ( )
 {
