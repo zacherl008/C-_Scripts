@@ -1,4 +1,4 @@
-//Definition of a rectangle class and multiple shape-related functions
+//Definition of a rectangle class containing multiple shape-related functions
 
 #include <iostream>
 using namespace std;
