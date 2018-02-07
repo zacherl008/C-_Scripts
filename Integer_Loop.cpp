@@ -1,7 +1,7 @@
+//Program to take a score from the user, determine if it is valid, and then analyze it.
+
 #include <iostream>
 using namespace std;
-
-//Program to take a score from the user, determine if it is valid, and then analyze it.
 
 int main ( )
 {
